@@ -10,7 +10,7 @@ For more information, visit the [project web page](https://quenstance.pages.dev/
 
 ### How to Use
 
-To replicate this project and run the analysis yourself, you will need to have **R** and **RStudio** installed.
+To replicate this project and run the analysis yourself, you will need to have **R** installed.
 
 1.  **Clone the repository:**
     ```bash
